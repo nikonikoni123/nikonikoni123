@@ -21,7 +21,7 @@ Aquí están las herramientas y librerías que utilizo para dar vida a mis model
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **buscador info nacional** | *Un asistente de machine learning que permite buscar cualquier dato en portales .gov.co en busca de una estandarización digital en Colombia.* | `TensorFlow` `Python` |
+| **Titi** | *Titi es un agente de Inteligencia Artificial de ejecución local diseñado para ser extremadamente ligero en recursos, capaz de responder con absoluta destreza sobre documentos investigativos o legales. * | `Gemma2B` `Python` |
 | **Data Analyst Bot** | *automatizar la exploración de datos (EDA) permitiendo al usuario hacer preguntas en lenguaje natural sobre un DataFrame.* | `Scikit-learn` `Pandas` |
 
 ---
